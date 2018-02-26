@@ -1,4 +1,4 @@
 
-public class EBook {
+public class EBook extends Inventory {
 
 }
